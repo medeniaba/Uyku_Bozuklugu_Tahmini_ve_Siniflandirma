@@ -1,0 +1,375 @@
+Kiþi ID,Cinsiyet,Yaþ,Meslek,Uyku Süresi,Uyku Kalitesi,Fiziksel Aktivite Seviyesi,Stres Seviyesi,Vücut Kitle Ýndeksi Kategorisi,Kan Basýncý,Kalp Hýzý,Günlük Adým Sayýsý,Uyku Bozukluðu
+1,Erkek,27,Software Engineer,6.1,6,42,6,Fazla Kilolu,126/83,77,4200,None
+2,Erkek,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None
+3,Erkek,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None
+4,Erkek,28,Sales Representative,5.9,4,30,8,Obez,140/90,85,3000,Uyku Apnesi
+5,Erkek,28,Sales Representative,5.9,4,30,8,Obez,140/90,85,3000,Uyku Apnesi
+6,Erkek,28,Software Engineer,5.9,4,30,8,Obez,140/90,85,3000,Uykusuzluk
+7,Erkek,29,Teacher,6.3,6,40,7,Obez,140/90,82,3500,Uykusuzluk
+8,Erkek,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+9,Erkek,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+10,Erkek,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+11,Erkek,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None
+12,Erkek,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+13,Erkek,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None
+14,Erkek,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None
+15,Erkek,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None
+16,Erkek,29,Doctor,6,6,30,8,Normal,120/80,70,8000,None
+17,Kadýn,29,Nurse,6.5,5,40,7,Ideal Kilo,132/87,80,4000,Uyku Apnesi
+18,Erkek,29,Doctor,6,6,30,8,Normal,120/80,70,8000,Uyku Apnesi
+19,Kadýn,29,Nurse,6.5,5,40,7,Ideal Kilo,132/87,80,4000,Uykusuzluk
+20,Erkek,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None
+21,Erkek,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+22,Erkek,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+23,Erkek,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+24,Erkek,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+25,Erkek,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+26,Erkek,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None
+27,Erkek,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+28,Erkek,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None
+29,Erkek,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None
+30,Erkek,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None
+31,Kadýn,30,Nurse,6.4,5,35,7,Ideal Kilo,130/86,78,4100,Uyku Apnesi
+32,Kadýn,30,Nurse,6.4,5,35,7,Ideal Kilo,130/86,78,4100,Uykusuzluk
+33,Kadýn,31,Nurse,7.9,8,75,4,Ideal Kilo,117/76,69,6800,None
+34,Erkek,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+35,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+36,Erkek,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+37,Erkek,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+38,Erkek,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None
+39,Erkek,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None
+40,Erkek,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None
+41,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+42,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+43,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+44,Erkek,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+45,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+46,Erkek,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+47,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+48,Erkek,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None
+49,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+50,Erkek,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Uyku Apnesi
+51,Erkek,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None
+52,Erkek,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None
+53,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+54,Erkek,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None
+55,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+56,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+57,Erkek,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+58,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+59,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+60,Erkek,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None
+61,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+62,Erkek,32,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+63,Erkek,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None
+64,Erkek,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None
+65,Erkek,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None
+66,Erkek,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None
+67,Erkek,32,Accountant,7.2,8,50,6,Ideal Kilo,118/76,68,7000,None
+68,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,Uykusuzluk
+69,Kadýn,33,Scientist,6.2,6,50,6,Fazla Kilolu,128/85,76,5500,None
+70,Kadýn,33,Scientist,6.2,6,50,6,Fazla Kilolu,128/85,76,5500,None
+71,Erkek,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+72,Erkek,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+73,Erkek,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+74,Erkek,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None
+75,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+76,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+77,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+78,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+79,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+80,Erkek,33,Doctor,6,6,30,8,Normal,125/80,72,5000,None
+81,Kadýn,34,Scientist,5.8,4,32,8,Fazla Kilolu,131/86,81,5200,Uyku Apnesi
+82,Kadýn,34,Scientist,5.8,4,32,8,Fazla Kilolu,131/86,81,5200,Uyku Apnesi
+83,Erkek,35,Teacher,6.7,7,40,5,Fazla Kilolu,128/84,70,5600,None
+84,Erkek,35,Teacher,6.7,7,40,5,Fazla Kilolu,128/84,70,5600,None
+85,Erkek,35,Software Engineer,7.5,8,60,5,Ideal Kilo,120/80,70,8000,None
+86,Kadýn,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+87,Erkek,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None
+88,Erkek,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None
+89,Erkek,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None
+90,Erkek,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None
+91,Erkek,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None
+92,Erkek,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None
+93,Erkek,35,Software Engineer,7.5,8,60,5,Ideal Kilo,120/80,70,8000,None
+94,Erkek,35,Lawyer,7.4,7,60,5,Obez,135/88,84,3300,Uyku Apnesi
+95,Kadýn,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Uykusuzluk
+96,Kadýn,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+97,Kadýn,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+98,Kadýn,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+99,Kadýn,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None
+100,Kadýn,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None
+101,Kadýn,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None
+102,Kadýn,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None
+103,Kadýn,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None
+104,Erkek,36,Teacher,6.6,5,35,7,Fazla Kilolu,129/84,74,4800,Uyku Apnesi
+105,Kadýn,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Uyku Apnesi
+106,Erkek,36,Teacher,6.6,5,35,7,Fazla Kilolu,129/84,74,4800,Uykusuzluk
+107,Kadýn,37,Nurse,6.1,6,42,6,Fazla Kilolu,126/83,77,4200,None
+108,Erkek,37,Engineer,7.8,8,70,4,Ideal Kilo,120/80,68,7000,None
+109,Erkek,37,Engineer,7.8,8,70,4,Ideal Kilo,120/80,68,7000,None
+110,Erkek,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None
+111,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+112,Erkek,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None
+113,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+114,Erkek,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None
+115,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+116,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+117,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+118,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+119,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+120,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+121,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+122,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+123,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+124,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+125,Kadýn,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None
+126,Kadýn,37,Nurse,7.5,8,60,4,Ideal Kilo,120/80,70,8000,None
+127,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+128,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+129,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+130,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+131,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+132,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+133,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+134,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+135,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+136,Erkek,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None
+137,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+138,Erkek,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None
+139,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+140,Erkek,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None
+141,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+142,Erkek,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None
+143,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+144,Kadýn,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None
+145,Erkek,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Uyku Apnesi
+146,Kadýn,38,Lawyer,7.4,7,60,5,Obez,135/88,84,3300,Uyku Apnesi
+147,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Uykusuzluk
+148,Erkek,39,Engineer,6.5,5,40,7,Fazla Kilolu,132/87,80,4000,Uykusuzluk
+149,Kadýn,39,Lawyer,6.9,7,50,6,Ideal Kilo,128/85,75,5500,None
+150,Kadýn,39,Accountant,8,9,80,3,Ideal Kilo,115/78,67,7500,None
+151,Kadýn,39,Accountant,8,9,80,3,Ideal Kilo,115/78,67,7500,None
+152,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+153,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+154,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+155,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+156,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+157,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+158,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+159,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+160,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+161,Erkek,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None
+162,Kadýn,40,Accountant,7.2,8,55,6,Ideal Kilo,119/77,73,7300,None
+163,Kadýn,40,Accountant,7.2,8,55,6,Ideal Kilo,119/77,73,7300,None
+164,Erkek,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None
+165,Erkek,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None
+166,Erkek,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Uykusuzluk
+167,Erkek,41,Engineer,7.3,8,70,6,Ideal Kilo,121/79,72,6200,None
+168,Erkek,41,Lawyer,7.1,7,55,6,Fazla Kilolu,125/82,72,6000,None
+169,Erkek,41,Lawyer,7.1,7,55,6,Fazla Kilolu,125/82,72,6000,None
+170,Erkek,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None
+171,Erkek,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None
+172,Erkek,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None
+173,Erkek,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None
+174,Erkek,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None
+175,Erkek,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None
+176,Erkek,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None
+177,Erkek,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None
+178,Erkek,42,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+179,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+180,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+181,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+182,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+183,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+184,Erkek,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None
+185,Kadýn,42,Teacher,6.8,6,45,7,Fazla Kilolu,130/85,78,5000,Uyku Apnesi
+186,Kadýn,42,Teacher,6.8,6,45,7,Fazla Kilolu,130/85,78,5000,Uyku Apnesi
+187,Kadýn,43,Teacher,6.7,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+188,Erkek,43,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+189,Kadýn,43,Teacher,6.7,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+190,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+191,Kadýn,43,Teacher,6.7,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+192,Erkek,43,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+193,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+194,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+195,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+196,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+197,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+198,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+199,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+200,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+201,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+202,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Uykusuzluk
+203,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Uykusuzluk
+204,Erkek,43,Engineer,6.9,6,47,7,Ideal Kilo,117/76,69,6800,None
+205,Erkek,43,Engineer,7.6,8,75,4,Fazla Kilolu,122/80,68,6800,None
+206,Erkek,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None
+207,Erkek,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None
+208,Erkek,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None
+209,Erkek,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None
+210,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+211,Erkek,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None
+212,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+213,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+214,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+215,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+216,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+217,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+218,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None
+219,Erkek,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Uyku Apnesi
+220,Erkek,43,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,Uyku Apnesi
+221,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+222,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+223,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+224,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+225,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+226,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+227,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+228,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+229,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+230,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+231,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+232,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+233,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+234,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+235,Kadýn,44,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+236,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+237,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+238,Kadýn,44,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+239,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+240,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+241,Kadýn,44,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+242,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+243,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+244,Kadýn,44,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+245,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+246,Kadýn,44,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+247,Erkek,44,Salesperson,6.3,6,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+248,Erkek,44,Engineer,6.8,7,45,7,Fazla Kilolu,130/85,78,5000,Uykusuzluk
+249,Erkek,44,Salesperson,6.4,6,45,7,Fazla Kilolu,130/85,72,6000,None
+250,Erkek,44,Salesperson,6.5,6,45,7,Fazla Kilolu,130/85,72,6000,None
+251,Kadýn,45,Teacher,6.8,7,30,6,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+252,Kadýn,45,Teacher,6.8,7,30,6,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+253,Kadýn,45,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+254,Kadýn,45,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+255,Kadýn,45,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+256,Kadýn,45,Teacher,6.5,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+257,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+258,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+259,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+260,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+261,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,Uykusuzluk
+262,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,None
+263,Kadýn,45,Teacher,6.6,7,45,4,Fazla Kilolu,135/90,65,6000,None
+264,Kadýn,45,Manager,6.9,7,55,5,Fazla Kilolu,125/82,75,5500,None
+265,Erkek,48,Doctor,7.3,7,65,5,Obez,142/92,83,3500,Uykusuzluk
+266,Kadýn,48,Nurse,5.9,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+267,Erkek,48,Doctor,7.3,7,65,5,Obez,142/92,83,3500,Uykusuzluk
+268,Kadýn,49,Nurse,6.2,6,90,8,Fazla Kilolu,140/95,75,10000,None
+269,Kadýn,49,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+270,Kadýn,49,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+271,Kadýn,49,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+272,Kadýn,49,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+273,Kadýn,49,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+274,Kadýn,49,Nurse,6.2,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+275,Kadýn,49,Nurse,6.2,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+276,Kadýn,49,Nurse,6.2,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+277,Erkek,49,Doctor,8.1,9,85,3,Obez,139/91,86,3700,Uyku Apnesi
+278,Erkek,49,Doctor,8.1,9,85,3,Obez,139/91,86,3700,Uyku Apnesi
+279,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uykusuzluk
+280,Kadýn,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None
+281,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,None
+282,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+283,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+284,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+285,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+286,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+287,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+288,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+289,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+290,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+291,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+292,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+293,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+294,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+295,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+296,Kadýn,50,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+297,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+298,Kadýn,50,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+299,Kadýn,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+300,Kadýn,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+301,Kadýn,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+302,Kadýn,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+303,Kadýn,51,Nurse,7.1,7,55,6,Ideal Kilo,125/82,72,6000,None
+304,Kadýn,51,Nurse,6,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+305,Kadýn,51,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+306,Kadýn,51,Nurse,6.1,6,90,8,Fazla Kilolu,140/95,75,10000,Uyku Apnesi
+307,Kadýn,52,Accountant,6.5,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+308,Kadýn,52,Accountant,6.5,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+309,Kadýn,52,Accountant,6.6,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+310,Kadýn,52,Accountant,6.6,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+311,Kadýn,52,Accountant,6.6,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+312,Kadýn,52,Accountant,6.6,7,45,7,Fazla Kilolu,130/85,72,6000,Uykusuzluk
+313,Kadýn,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+314,Kadýn,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+315,Kadýn,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+316,Kadýn,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Uykusuzluk
+317,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+318,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+319,Kadýn,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+320,Kadýn,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+321,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+322,Kadýn,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+323,Kadýn,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+324,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+325,Kadýn,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None
+326,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+327,Kadýn,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None
+328,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+329,Kadýn,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None
+330,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+331,Kadýn,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+332,Kadýn,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+333,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+334,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+335,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+336,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+337,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+338,Kadýn,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None
+339,Kadýn,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None
+340,Kadýn,55,Nurse,8.1,9,75,4,Fazla Kilolu,140/95,72,5000,Uyku Apnesi
+341,Kadýn,55,Nurse,8.1,9,75,4,Fazla Kilolu,140/95,72,5000,Uyku Apnesi
+342,Kadýn,56,Doctor,8.2,9,90,3,Ideal Kilo,118/75,65,10000,None
+343,Kadýn,56,Doctor,8.2,9,90,3,Ideal Kilo,118/75,65,10000,None
+344,Kadýn,57,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,None
+345,Kadýn,57,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+346,Kadýn,57,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+347,Kadýn,57,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+348,Kadýn,57,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+349,Kadýn,57,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+350,Kadýn,57,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+351,Kadýn,57,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+352,Kadýn,57,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+353,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+354,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+355,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+356,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+357,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+358,Kadýn,58,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+359,Kadýn,59,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,None
+360,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,None
+361,Kadýn,59,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+362,Kadýn,59,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+363,Kadýn,59,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+364,Kadýn,59,Nurse,8.2,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+365,Kadýn,59,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+366,Kadýn,59,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+367,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+368,Kadýn,59,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+369,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+370,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+371,Kadýn,59,Nurse,8,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+372,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+373,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
+374,Kadýn,59,Nurse,8.1,9,75,3,Fazla Kilolu,140/95,68,7000,Uyku Apnesi
